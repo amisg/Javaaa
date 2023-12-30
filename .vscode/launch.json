@@ -1,0 +1,161 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "java",
+			"name": "CLL",
+			"request": "launch",
+			"mainClass": "linkedList.CLL",
+			"projectName": "Javaaa_254b299b"
+		},
+		{
+			"type": "java",
+			"name": "HashingLp",
+			"request": "launch",
+			"mainClass": "hashing.HashingLp",
+			"projectName": "Javaaa_254b299b"
+		},
+		{
+			"type": "java",
+			"name": "Hashing",
+			"request": "launch",
+			"mainClass": "hashing.Hashing",
+			"projectName": "Javaaa_254b299b"
+		},
+		{
+			"type": "java",
+			"name": "LinearSearch",
+			"request": "launch",
+			"mainClass": "searching.LinearSearch",
+			"projectName": "Javaaa_254b299b"
+		},
+		{
+			"type": "java",
+			"name": "SchoolPicnicTransportation",
+			"request": "launch",
+			"mainClass": "oneDArray.SchoolPicnicTransportation",
+			"projectName": "Javaaa_254b299b"
+		},
+		{
+			"type": "java",
+			"name": "ColSum",
+			"request": "launch",
+			"mainClass": "oneDArray.ColSum",
+			"projectName": "Javaaa_254b299b"
+		},
+		{
+			"type": "java",
+			"name": "QuickSort",
+			"request": "launch",
+			"mainClass": "sorting.QuickSort",
+			"projectName": "Javaaa_254b299b"
+		},
+		{
+			"type": "java",
+			"name": "LL",
+			"request": "launch",
+			"mainClass": "linkedList.LL",
+			"projectName": "Javaaa_254b299b"
+		},
+		{
+			"type": "java",
+			"name": "Practice",
+			"request": "launch",
+			"mainClass": "sorting.Practice",
+			"projectName": "Javaaa_254b299b"
+		},
+		{
+			"type": "java",
+			"name": "MergeSort",
+			"request": "launch",
+			"mainClass": "sorting.MergeSort",
+			"projectName": "Javaaa_254b299b"
+		},
+		{
+			"type": "java",
+			"name": "InsertionSort",
+			"request": "launch",
+			"mainClass": "sorting.InsertionSort",
+			"projectName": "Javaaa_254b299b"
+		},
+		{
+			"type": "java",
+			"name": "BubbleSort",
+			"request": "launch",
+			"mainClass": "sorting.BubbleSort",
+			"projectName": "Javaaa_254b299b"
+		},
+		{
+			"type": "java",
+			"name": "SelectionSort",
+			"request": "launch",
+			"mainClass": "sorting.SelectionSort",
+			"projectName": "Javaaa_254b299b"
+		},
+		{
+			"type": "java",
+			"name": "BinarySearch",
+			"request": "launch",
+			"mainClass": "oneDArray.BinarySearch",
+			"projectName": "Javaaa_254b299b"
+		},
+		{
+			"type": "java",
+			"name": "EvenFirst",
+			"request": "launch",
+			"mainClass": "oneDArray.EvenFirst",
+			"projectName": "Javaaa_254b299b"
+		},
+		{
+			"type": "java",
+			"name": "TicTacToe",
+			"request": "launch",
+			"mainClass": "ticTacToe.TicTacToe",
+			"projectName": "Javaaa_254b299b"
+		},
+		{
+			"type": "java",
+			"name": "GameOfPiles",
+			"request": "launch",
+			"mainClass": "oneDArray.GameOfPiles",
+			"projectName": "Javaaa_254b299b"
+		},
+		{
+			"type": "java",
+			"name": "MaxOneInRows",
+			"request": "launch",
+			"mainClass": "twoDArrays.MaxOneInRows",
+			"projectName": "Javaaa_254b299b"
+		},
+		{
+			"type": "java",
+			"name": "MaxOperation",
+			"request": "launch",
+			"mainClass": "oops.MaxOperation",
+			"projectName": "Javaaa_254b299b"
+		},
+		{
+			"type": "java",
+			"name": "Abstract",
+			"request": "launch",
+			"mainClass": "oops.Abstract",
+			"projectName": "Javaaa_254b299b"
+		},
+		{
+			"type": "java",
+			"name": "Current File",
+			"request": "launch",
+			"mainClass": "${file}"
+		},
+		{
+			"type": "java",
+			"name": "Main",
+			"request": "launch",
+			"mainClass": "Main",
+			"projectName": "Javaaa_254b299b"
+		}
+	]
+}
