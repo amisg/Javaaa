@@ -1,5 +1,7 @@
 package hashing;
 
+import java.util.Arrays;
+
 public class HashingLp {
     int hashTable[];
     int size;
@@ -16,7 +18,8 @@ public class HashingLp {
         int index = hashFunc(num);
         boolean isInserted = false;
         for (int i = 0; i < size; i++) {
-            int newIndex = (i+index)%size;
+            // int newIndex = (i+index)%size;
+            int newIndex = (int)(Math.pow(2, i)+index)%size;
             if (hashTable[newIndex]==0) {
                 hashTable[newIndex]=num;
                 isInserted = true;
@@ -34,7 +37,8 @@ public class HashingLp {
         int index = hashFunc(num);
         boolean isPresent = false;
         for (int i = 0; i < size; i++) {
-            int newIndex = (i+index)%size;
+          //  int newIndex = (i+index)%size;
+            int newIndex = (int)(Math.pow(2, i)+index)%size;
             if(hashTable[newIndex]==0){
                 break;
             }else if (hashTable[newIndex]==num) {
@@ -55,6 +59,8 @@ public class HashingLp {
         for (int num : nums) {
             h.add(num);
         }
+      //  System.out.println(Arrays.toString(nums));
         h.check(7);
+        h.check(99);
     }
 }
