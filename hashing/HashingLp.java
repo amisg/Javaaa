@@ -1,6 +1,6 @@
 package hashing;
 
-import java.util.Arrays;
+
 
 public class HashingLp {
     int hashTable[];
@@ -64,3 +64,16 @@ public class HashingLp {
         h.check(99);
     }
 }
+// longest sub array with equal 0s and 1s
+
+// count no of sub array with sum k
+
+// find largest /smallest sub array with sum k
+
+
+// Selva
+// just now
+// FirstNonRepeatingCharacterInAString
+
+
+// https://leetcode.com/problems/happy-number/

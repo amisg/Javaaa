@@ -6,6 +6,41 @@
 	"configurations": [
 		{
 			"type": "java",
+			"name": "StackBrackets",
+			"request": "launch",
+			"mainClass": "stack.StackBrackets",
+			"projectName": "Javaaa_254b299b"
+		},
+		{
+			"type": "java",
+			"name": "StackArray",
+			"request": "launch",
+			"mainClass": "stack.StackArray",
+			"projectName": "Javaaa_254b299b"
+		},
+		{
+			"type": "java",
+			"name": "checkIfArraySortedAndRotatedClockwise",
+			"request": "launch",
+			"mainClass": "oneDArray.checkIfArraySortedAndRotatedClockwise",
+			"projectName": "Javaaa_254b299b"
+		},
+		{
+			"type": "java",
+			"name": "PerfectSubarray",
+			"request": "launch",
+			"mainClass": "oneDArray.PerfectSubarray",
+			"projectName": "Javaaa_254b299b"
+		},
+		{
+			"type": "java",
+			"name": "MarvelIndexes",
+			"request": "launch",
+			"mainClass": "oneDArray.MarvelIndexes",
+			"projectName": "Javaaa_254b299b"
+		},
+		{
+			"type": "java",
 			"name": "CLL",
 			"request": "launch",
 			"mainClass": "linkedList.CLL",
