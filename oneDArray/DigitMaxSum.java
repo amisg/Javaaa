@@ -36,4 +36,4 @@ public class DigitMaxSum {
 // 4
 // 234 456 567 678
 // output
-// 25
+// 25 https://github.com/selvakanna55/newton-may-2022-2/blob/master/src/DSA2_Questions.txt
