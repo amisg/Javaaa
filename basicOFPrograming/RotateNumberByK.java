@@ -13,6 +13,10 @@ public class RotateNumberByK {
             temp = temp / 10;
             nod++;
         }
+        k = k % nod;
+        if (k < 0) {
+            k = k + nod;
+        }
         int div = 1;
         int mult = 1;
         for(int i=1;i<=nod;i++){
