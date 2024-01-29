@@ -33,3 +33,8 @@ public class RotateNumberByK {
         sc.close();
     }
 }
+
+//input 
+// 12345 k = 2
+//output
+//34512
